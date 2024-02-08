@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kanpur/static/css/main.d418316b.css",
-    "main.js": "/kanpur/static/js/main.0d7bef7f.js",
+    "main.css": "/kanpur/static/css/main.71358b84.css",
+    "main.js": "/kanpur/static/js/main.522d17f6.js",
     "static/js/592.3a88acfd.chunk.js": "/kanpur/static/js/592.3a88acfd.chunk.js",
     "static/media/hospimain.jpeg": "/kanpur/static/media/hospimain.4938929c04f4854a845a.jpeg",
     "index.html": "/kanpur/index.html",
-    "main.d418316b.css.map": "/kanpur/static/css/main.d418316b.css.map",
-    "main.0d7bef7f.js.map": "/kanpur/static/js/main.0d7bef7f.js.map",
+    "main.71358b84.css.map": "/kanpur/static/css/main.71358b84.css.map",
+    "main.522d17f6.js.map": "/kanpur/static/js/main.522d17f6.js.map",
     "592.3a88acfd.chunk.js.map": "/kanpur/static/js/592.3a88acfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d418316b.css",
-    "static/js/main.0d7bef7f.js"
+    "static/css/main.71358b84.css",
+    "static/js/main.522d17f6.js"
   ]
 }
