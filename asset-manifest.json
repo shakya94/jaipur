@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/kanpur/static/css/main.71358b84.css",
-    "main.js": "/kanpur/static/js/main.522d17f6.js",
+    "main.css": "/kanpur/static/css/main.c6b8609d.css",
+    "main.js": "/kanpur/static/js/main.9b6375b4.js",
     "static/js/592.3a88acfd.chunk.js": "/kanpur/static/js/592.3a88acfd.chunk.js",
+    "static/media/harshit.jpg": "/kanpur/static/media/harshit.b0bc90b0c64e81d570f5.jpg",
     "static/media/hospimain.jpeg": "/kanpur/static/media/hospimain.4938929c04f4854a845a.jpeg",
     "index.html": "/kanpur/index.html",
-    "main.71358b84.css.map": "/kanpur/static/css/main.71358b84.css.map",
-    "main.522d17f6.js.map": "/kanpur/static/js/main.522d17f6.js.map",
+    "main.c6b8609d.css.map": "/kanpur/static/css/main.c6b8609d.css.map",
+    "main.9b6375b4.js.map": "/kanpur/static/js/main.9b6375b4.js.map",
     "592.3a88acfd.chunk.js.map": "/kanpur/static/js/592.3a88acfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71358b84.css",
-    "static/js/main.522d17f6.js"
+    "static/css/main.c6b8609d.css",
+    "static/js/main.9b6375b4.js"
   ]
 }
